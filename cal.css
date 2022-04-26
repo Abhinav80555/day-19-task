@@ -1,0 +1,96 @@
+
+h1#title {
+    font-size: 50px;
+    text-align: center;
+}
+p#description {
+    text-align: center;
+    font-size: 35px;
+}
+#calc {  
+    text-align: center;
+    width: 400px; 
+    height: 490px;
+    display: block;
+    padding:8px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:20px;
+    background-color:#DADADA;
+  }
+  
+  #display {
+      
+      padding: 8px;
+      margin:16px 0  16px 0;
+      text-align: center;
+      font-family: 'Courier New', Courier, monospace;
+  }
+  
+  #result{
+    font-size:2.5em;
+    text-align:start;
+    width: 360px;
+    background-color:#B9B9B9;
+    font-weight: 400;
+    height:70px;
+    padding-left: 20px;
+  }
+  button {
+    width: 86px;
+    margin: 2px;
+    margin-top: 15px;
+    margin-left: 5px;
+    border:none;
+    height:50px;
+    background-color:#DADADA;
+}
+.row {
+    margin: 0px;
+}
+
+#equal {
+        width: 176px;
+    }
+#clear{
+    color:red;
+}
+#add{
+    color:blue;
+}
+#subtract{
+    color:blue;
+}
+#divi{
+    color:blue;
+}
+#mult{
+    color:blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
